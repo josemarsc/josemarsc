@@ -6,8 +6,9 @@
 
 <ul style="list-style: none; padding: 0; margin-bottom: 30px;">
   <li style="padding-left: 20px; display: flex; align-items: center;"><div style="height: 15px; aspect-ratio: 1; background: #38690A; margin-right: 5px; border-radius: 50%;"></div>💻 I'm a full time developer
-  <li style="padding-left: 20px; display: flex; align-items: center;"><div style="height: 15px; aspect-ratio: 1; background: #38690A; margin-right: 5px; border-radius: 50%;"></div>🌱 In love with technology and code
-  <li style="padding-left: 20px; display: flex; align-items: center;"><div style="height: 15px; aspect-ratio: 1; background: #38690A; margin-right: 5px; border-radius: 50%;"></div> ⭐ Stargazing
+  <li style="padding-left: 20px; display: flex; align-items: center;"><div style="height: 15px; aspect-ratio: 1; background: #38690A; margin-right: 5px; border-radius: 50%;"></div>⚡ In love with technology and code
+  <li style="padding-left: 20px; display: flex; align-items: center;"><div style="height: 15px; aspect-ratio: 1; background: #38690A; margin-right: 5px; border-radius: 50%;"></div>💡 Entrepreneur
+  <li style="padding-left: 20px; display: flex; align-items: center;"><div style="height: 15px; aspect-ratio: 1; background: #38690A; margin-right: 5px; border-radius: 50%;"></div>🌱 Stargazing
 </ul>
 
  <br>
@@ -25,13 +26,16 @@
 <div style="display: inline;">
   <img align="center" alt="Silva-Ionic" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
   <img align="center" alt="Silva-Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img align="center" alt="Silva-JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Silva-TS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <!-- <img align="center" alt="Silva-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> -->
+  <img align="center" alt="Silva-TS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Silva-NestJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
+  <img align="center" alt="Silva-PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Silva-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="Silva-Arduino" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-  <img align="center" alt="Silva-Firebase" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+  <img align="center" alt="Silva-Firebase" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" />
+  <img align="center" alt="Silva-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" alt="Silva-Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Silva-Sass" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img align="center" alt="Silva-Arduino" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
 </div>
 
 ## <div style="margin-block: 20px; border-bottom: 1px solid rgba(255, 255, 255, .2)"> Contact me at </div>
