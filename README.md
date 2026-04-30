@@ -23,10 +23,10 @@
 </div>
 </div>
 
-<div style="display: inline;">
+<div style="display: flex;">
   <img align="center" alt="Silva-Ionic" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
-  <img align="center" alt="Silva-Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <!-- <img align="center" alt="Silva-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> -->
+  <img align="center" alt="Silva-Angular" height="40" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/angular.svg" />
+  <img align="center" alt="Silva-JS" height="40" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg">
   <img align="center" alt="Silva-TS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Silva-NestJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
   <img align="center" alt="Silva-PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
@@ -34,7 +34,9 @@
   <img align="center" alt="Silva-Firebase" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" />
   <img align="center" alt="Silva-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" alt="Silva-Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" alt="Silva-Sass" height="40" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" />
   <img align="center" alt="Silva-Sass" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img align="center" alt="Silva-Nginx" height="40" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/nginx.svg">
   <img align="center" alt="Silva-Arduino" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
 </div>
 
@@ -43,7 +45,7 @@
   <a href = "mailto:josemarsc.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/josemar-silva-651b88167/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-![Snake animation](https://github.com/josemarsc/josemarsc/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/josemarsc/josemarsc/blob/output/github-contribution-grid-snake.svg) -->
 
 </div>
 
